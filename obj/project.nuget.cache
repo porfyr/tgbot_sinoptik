@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtdI9O1CrF2E4RbcDqmxZ87+epvz5H9NovZtPDy4ntpGv0vX8xU6OW+jS7oWinzQN9vNSRtG52JweOU/gm1Giw==",
+  "success": true,
+  "projectFilePath": "/home/sn/yoblya_local/yoblya/dot_net/tgbot_synoptyk/tgbot_synoptyk.csproj",
+  "expectedPackageFiles": [
+    "/home/sn/.nuget/packages/anglesharp/1.0.1/anglesharp.1.0.1.nupkg.sha512",
+    "/home/sn/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/sn/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/home/sn/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "/home/sn/.nuget/packages/telegram.bot/19.0.0/telegram.bot.19.0.0.nupkg.sha512",
+    "/home/sn/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
